@@ -1,7 +1,8 @@
 Android material highlight circle view(Refactoring...)
 =======
-##For example . 
-![content_calendar_view](https://user-images.githubusercontent.com/17498974/49330526-57846880-f5d3-11e8-818a-c1cd3fa14e2e.gif)
+
+For example . 
+![tutorial_circle_view](https://user-images.githubusercontent.com/17498974/49330746-4d179e00-f5d6-11e8-9e70-c0792f414bc7.gif)
 
 License
 --------
